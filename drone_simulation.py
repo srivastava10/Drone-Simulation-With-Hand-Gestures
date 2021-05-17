@@ -30,3 +30,5 @@ def update():
 	
 	
 app.run()
+
+# To use this template, you need to install Ursina Engine and rename the file as "ursina_game.py".
