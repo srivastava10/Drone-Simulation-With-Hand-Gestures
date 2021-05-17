@@ -11,6 +11,8 @@ window.fps_counter.enabled = True
 
 player = Entity(model='drone-obj/drone.obj',color=color.white,scale=1,shaders=lit_with_shadows_shader)
 
+#For the model above, you can use any other drone model.
+
 
 e=EditorCamera()
 
